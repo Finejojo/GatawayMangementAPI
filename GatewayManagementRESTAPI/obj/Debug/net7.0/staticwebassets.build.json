@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "9xrU6hDNVZIyPpeYCVVYjMRW8ivmSV/BS7/4EwJg1Yo=",
+  "Source": "GatewayManagementRESTAPI",
+  "BasePath": "_content/GatewayManagementRESTAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
